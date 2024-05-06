@@ -3,5 +3,8 @@
         "activityBar.background": "#52153D",
         "titleBar.activeBackground": "#721D56",
         "titleBar.activeForeground": "#FEFCFD"
-    }
+    },
+    "cSpell.words": [
+        "Bezier"
+    ]
 }

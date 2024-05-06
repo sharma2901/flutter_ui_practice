@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:login/login/login.dart';
+import 'package:login/login2/login2.dart';
 
 void main() {
   runApp(const MainApp());
@@ -14,7 +14,7 @@ class MainApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: SafeArea(
           child: Scaffold(
-        body: Login(),
+        body: Login2(),
       )),
     );
   }
