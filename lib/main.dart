@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:login/login2/login2.dart';
+import 'package:login/kundali/north.dart';
 
 void main() {
   runApp(const MainApp());
@@ -14,7 +14,7 @@ class MainApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: SafeArea(
           child: Scaffold(
-        body: Login2(),
+        body: NorthChart(),
       )),
     );
   }
